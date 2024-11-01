@@ -1,0 +1,18 @@
+<div class="categories-button">
+    <button mat-icon-button style="background-color: orange;" (click)="openDialog()">
+        <mat-icon style="color: white;" >note_add</mat-icon>
+    </button>
+</div>
+<div class="categories-selection">
+    <p>
+        <mat-button-toggle-group aria-label="Font Style" [hideMultipleSelectionIndicator]="true" [hideSingleSelectionIndicator]="true">
+            <mat-button-toggle value="{{cat}}" *ngFor="let cat of categories" (change)="selectCategory(cat)">
+            {{cat}}
+            </mat-button-toggle>
+        </mat-button-toggle-group>
+    </p>
+</div>
+<div class="card-container">
+    <mfee-project-card *ngFor="let loc of locations" [location]="loc" [categories]="categories" (updatedEvent)="updatedPost($event)"></mfee-project-card>
+</div>
+

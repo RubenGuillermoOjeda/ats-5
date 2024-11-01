@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+mat-card {
+    width: 40%;
+    margin: 5% auto ;
+    background-color: lightgrey;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}

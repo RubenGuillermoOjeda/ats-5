@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "user": "Mauricio",
+          "email": "mauricio@hotmail.com",
+          "password": "ats2024",
+          "confPassword": "ats2024"
+        },
+        {
+          "id": 2,
+          "user": "ats",
+          "email": "ats@hotmail.com",
+          "password": "ats2024",
+          "confPassword": "ats2024"
+        },
+        {
+          "id": 3,
+          "user": "Sara",
+          "email": "sara@hotmail.com",
+          "password": "accenture",
+          "confPassword": "accenture"
+        },
+        {
+          "id": 4,
+          "user": "Alejandro",
+          "email": "alejandro@hotmail.com",
+          "password": "ats2024",
+          "confPassword": "ats2024"
+        },
+        {
+          "id": 5,
+          "user": "Pedro",
+          "email": "pedro@hotmail.com",
+          "password": "ats1234",
+          "confPassword": "ats1234"
+        }
+      ]
+}

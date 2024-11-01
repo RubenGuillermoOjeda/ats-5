@@ -1,0 +1,123 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "title": "Central Park",
+      "description": "A large public park in New York City.",
+      "category": "Park",
+      "url": "https://picsum.photos/id/238/200/300"
+    },
+    {
+      "id": "3",
+      "title": "Great Wall of China",
+      "description": "An ancient wall stretching across northern China.",
+      "category": "Historical",
+      "url": "https://picsum.photos/id/353/200/300"
+    },
+    {
+      "id": "4",
+      "title": "Mount Fuji",
+      "description": "Japan's tallest mountain, located southwest of Tokyo.",
+      "category": "Mountain",
+      "url": "https://picsum.photos/id/377/200/300"
+    },
+    {
+      "id": "5",
+      "title": "Sydney Opera House",
+      "description": "An iconic performing arts center in Sydney, Australia.",
+      "category": "Landmark",
+      "url": "https://picsum.photos/id/936/200/300"
+    },
+    {
+      "id": "6",
+      "title": "Taj Mahal",
+      "description": "A white marble mausoleum in Agra, India.",
+      "category": "Historical",
+      "url": "https://picsum.photos/id/545/200/300"
+    },
+    {
+      "id": "7",
+      "title": "Grand Canyon",
+      "description": "A massive canyon in Arizona, USA.",
+      "category": "Natural Wonder",
+      "url": "https://picsum.photos/id/368/200/300"
+    },
+    {
+      "id": "8",
+      "title": "Santorini",
+      "description": "A beautiful Greek island known for its whitewashed buildings.",
+      "category": "Island",
+      "url": "https://picsum.photos/id/449/200/300"
+    },
+    {
+      "id": "9",
+      "title": "Banff National Park",
+      "description": "Canada's oldest national park, located in the Rocky Mountains.",
+      "category": "Park",
+      "url": "https://picsum.photos/id/450/200/300"
+    },
+    {
+      "id": "10",
+      "title": "Machu Picchu",
+      "description": "An ancient Incan city located high in the Andes Mountains.",
+      "category": "Historical",
+      "url": "https://picsum.photos/id/902/200/300"
+    },
+    {
+      "id": "11",
+      "title": "Golden Gate Bridge",
+      "description": "A suspension bridge spanning the Golden Gate in San Francisco, USA.",
+      "category": "Landmark",
+      "url": "https://picsum.photos/id/503/200/300"
+    },
+    {
+      "id": "12",
+      "title": "Colosseum",
+      "description": "A large amphitheater in Rome, Italy, dating back to ancient times.",
+      "category": "Historical",
+      "url": "https://picsum.photos/id/546/200/300"
+    },
+    {
+      "id": "13",
+      "title": "Niagara Falls",
+      "description": "A group of three waterfalls located between Canada and the USA.",
+      "category": "Natural Wonder",
+      "url": "https://picsum.photos/id/928/200/300"
+    },
+    {
+      "id": "14",
+      "title": "Bali",
+      "description": "A popular Indonesian island known for its beaches and temples.",
+      "category": "Island",
+      "url": "https://picsum.photos/id/640/200/300"
+    },
+    {
+      "id": "15",
+      "title": "Kilimanjaro",
+      "description": "Africa's highest mountain, located in Tanzania.",
+      "category": "Mountain",
+      "url": "https://picsum.photos/id/538/200/300"
+    },
+    {
+      "id": "16",
+      "title": "Great Barrier Reef",
+      "description": "The world's largest coral reef system, located off Australia's coast.",
+      "category": "Natural Wonder",
+      "url": "https://picsum.photos/id/611/200/300"
+    },
+    {
+      "id": "17",
+      "title": "Lake Louise",
+      "description": "A glacial lake in Banff National Park, Canada.",
+      "category": "Park",
+      "url": "https://picsum.photos/id/575/200/300"
+    },
+    {
+      "id": "18",
+      "title": "Everest Mountain",
+      "description": "Largest Mountain in the World",
+      "category": "Mountain",
+      "url": "https://picsum.photos/id/329/200/300"
+    }
+  ]
+}

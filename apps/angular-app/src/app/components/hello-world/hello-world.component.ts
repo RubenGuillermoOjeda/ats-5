@@ -3,8 +3,8 @@ import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'mfee-project-hello-world',
-  // standalone: true,
-  // imports: [CommonModule],
+  standalone: true,
+  imports: [CommonModule],
   templateUrl: './hello-world.component.html',
   styleUrl: './hello-world.component.scss'
 })

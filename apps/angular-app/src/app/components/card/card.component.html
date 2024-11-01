@@ -1,0 +1,16 @@
+<mat-card class="card-item" style="background-image: url({{location.url}});">
+    <mat-card-content>
+        <mat-card-title>{{location.title}}</mat-card-title>
+        <p>{{location.category | uppercase}}</p>
+        <p>{{location.description}}</p>
+        <p>{{location.url}}</p>
+    </mat-card-content>
+    <mat-card-actions align="end">
+        <button mat-icon-button (click)="openDialog()">
+            <mat-icon>edit</mat-icon>
+        </button>
+        <button mat-icon-button (click)="deletePost(location.id)">
+            <mat-icon>delete</mat-icon>
+        </button>
+    </mat-card-actions>
+</mat-card>
